@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekrem Özer</h1>
 <h3 align="center">I'm a Computer Engineering student with a passion for Backend Development and a knack for managing a variety of IT systems. Currently on the exciting journey of learning and exploring the depths of Information Systems Engineering.</h3>
 
-- 🔭 I love delving into the intricacies of IT systems, from crafting efficient backend solutions to ensuring seamless network operations. My expertise lies in configuring network VLANs, managing switches and routers, and implementing robust security measures using Fortinet firewalls. Additionally, I excel in the administration of critical servers like DHCP, Domain Controller, and Exchange Server.
+- 🔭 I love delving into the intricacies of IT systems, from crafting efficient backend solutions to ensuring seamless network operations. My expertise lies in configuring network VLANs, managing switches and routers, and implementing robust security measures using Fortinet firewalls. Additionally, I excel in the administration of critical servers like DHCP, Domain Controller, Exchange Server...
 
 - 🌱 I’m currently learning exploring the intricacies of Cloud Computing and Virtualization Technologies. **Cloud Engineering**
 
