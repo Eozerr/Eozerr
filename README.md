@@ -3,7 +3,7 @@
 
 - 🔭 I love delving into the intricacies of IT systems, from crafting efficient backend solutions to ensuring seamless network operations. My expertise lies in configuring network VLANs, managing switches and routers, and implementing robust security measures using Fortinet firewalls. Additionally, I excel in the administration of critical servers like DHCP, Domain Controller, Exchange Server...
 
-- 🌱 I’m currently learning exploring the intricacies of Cloud Computing and Virtualization Technologies. **Cloud Engineering**
+- 🌱 I’m currently learning exploring the intricacies of Cloud Computing and Virtualization Technologies. 
 
 - 💬 Ask me about **IT systems**
 
